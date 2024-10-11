@@ -1,6 +1,12 @@
 # Project01
 ### Multiple pressure switches with RGB LED control using state machine and color transitions
 "Ogre Pastry Chef" revolves around an ogre who loves to bake delicious desserts. The user needs to press buttons representing human organs to select ingredients for making cakes.
+
+### State Diagram
+
+
+
+
 ### Function
 There are three pressure switches:
 Each pressure switch controls a different LED strip display effect.
