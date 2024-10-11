@@ -3,7 +3,7 @@
 "Ogre Pastry Chef" revolves around an ogre who loves to bake delicious desserts. The user needs to press buttons representing human organs to select ingredients for making cakes.
 
 ### State Diagram
-
+![state diagram example](IMG_7620.jpeg)  
 
 
 
