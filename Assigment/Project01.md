@@ -45,8 +45,9 @@ def execute_state():
     elif program_state == 'IDLE':
         set_rgb_color(0, 0, 0)  # 立即关闭灯带，不进行渐变
 ```
+### Hardware
 I used a double layer of paper to avoid exposing the copper tape traces.
 I drew the circuit structure on the bottom layer of paper to facilitate later operation.
-(Picture)
 I soldered the wires through the small holes in the bottom layer of paper to the copper tape to make it strong and ensure that all the hardware connection parts were covered in the acrylic frame.
 (Picture)
+![state diagram example](IMG_7621.png)  
