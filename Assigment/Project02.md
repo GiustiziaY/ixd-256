@@ -140,14 +140,12 @@ while True:
 
 ## Project outcome  
 
-Summarize the results of your final project implementation and include some photos of the prototype and a video walkthrough showing it working.  
-
-Note that GitHub has a small size limit for uploading files via browswer (25Mb max), so you may choose to use a link to YouTube, Google Drive, or another external site.
+![state diagram example](IMG_9220.MOV)  
 
 ## Conclusion  
 
-As you wrap up the project, reflect on your experience of creating it.  Use this as an opportunity to mention any discoveries or challenges you came across along the way.  If there is anything you would have done differently, or have a chance to continue the project development given more time or resources, it’s a good way to conclude this section.
+This project made me realize that I cannot simply guess the function of an electronic component based on its name (such as imu), and it also made me more clearly realize that after thinking of the function I want to achieve, I need to pay more attention to the details of hardware conditions in order to achieve it.
 
 ## Project references  
 
-Please include links to any online resources like videos or tutorials that you may have found helpful in your process of implementing the prototype. If you used any substantial code from an online resource, make sure to credit the author(s) or sources.  
+The basic logic of the program is original, and the code for random selection of sentences has been modified by ChatGPT
