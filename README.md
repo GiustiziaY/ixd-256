@@ -1,4 +1,18 @@
-# ixd-256
+## ixd-256
+
+### Introduction
+
+Provide a description of your initial project idea and include images of 
+the concept sketches that you created in Part 1 of this assignment.  
+
+### State Diagram
+
+Explain the interactive behaviors of the prototype you created and include a 
+state diagram (flowchart) to represent it.  For example, below is an example 
+state diagram included in the assignment description:  
+
+![state diagram](IMG_7620.jpeg)  
+
 ```Python
 import os, sys, io
 import M5
